@@ -1,0 +1,5 @@
+flask
+gcloud
+functions-framework
+sendgrid
+firebase-admin
